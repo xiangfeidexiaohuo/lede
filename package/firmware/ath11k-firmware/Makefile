@@ -8,13 +8,13 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ath11k-firmware
-PKG_SOURCE_DATE:=2022-11-25
-PKG_SOURCE_VERSION:=9f285fbc1f7040d0ca6480926d1922b479e2d839
-PKG_MIRROR_HASH:=4a2d09661d8ae932f93b1cdf9889197f4051bc0dfe9b757fddc6f4af566f0bb3
+PKG_SOURCE_DATE:=2024-02-18
+PKG_SOURCE_VERSION:=8d2cc160f390badd62970a66483214773c3fbea1
+PKG_MIRROR_HASH:=2d1ededed07504bb7cb0fab1b9c82d106339a2b9da0784c9c33a6f4837f6c4ab
 PKG_RELEASE:=$(AUTORELEASE)
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/kvalo/ath11k-firmware.git
+PKG_SOURCE_URL:=https://github.com/xiangfeidexiaohuo/ath11k-firmware.git
 
 PKG_MAINTAINER:=Robert Marko <robimarko@gmail.com>
 
